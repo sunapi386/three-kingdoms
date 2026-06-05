@@ -1,3 +1,8 @@
+---
+layout: default
+title: "New Three Kingdoms (新三国) - Episodes 31-40"
+---
+
 # New Three Kingdoms (新三国) - Episodes 31-40
 *From the Three Visits to the Eve of Red Cliffs*
 

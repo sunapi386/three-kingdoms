@@ -1,3 +1,8 @@
+---
+layout: default
+title: "New Three Kingdoms (新三国) - Episodes 61-70"
+---
+
 # New Three Kingdoms (新三国) - Episodes 61-70
 *From Ambition to Ashes: Cao Cao's Rise to King, the Fall of Shu's Phoenix, and the Road to Hanzhong*
 

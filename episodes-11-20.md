@@ -1,3 +1,8 @@
+---
+layout: default
+title: "New Three Kingdoms (新三国) - Episodes 11-20"
+---
+
 # New Three Kingdoms (新三国) - Episodes 11-20
 *The contest for Xuzhou, the fall of Lu Bu, and the forging of Cao Cao's supremacy*
 

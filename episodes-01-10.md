@@ -1,3 +1,8 @@
+---
+layout: default
+title: "New Three Kingdoms (新三国) - Episodes 1-10"
+---
+
 # New Three Kingdoms (新三国) - Episodes 1-10
 *The fall of the Han and rise of Dong Zhuo*
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "New Three Kingdoms (新三国) - Episodes 71-80"
+---
+
 # New Three Kingdoms (新三国) - Episodes 71-80
 *From the Fall of Guan Yu to the Eve of Yiling: Betrayal, Succession, and the War of Vengeance*
 

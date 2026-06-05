@@ -1,3 +1,8 @@
+---
+layout: default
+title: "New Three Kingdoms (新三国) - Episodes 81-90"
+---
+
 # New Three Kingdoms (新三国) - Episodes 81-90
 *From Yiling's Flames to the Northern Expeditions: The Passing of the Old Guard*
 

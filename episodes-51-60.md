@@ -1,3 +1,8 @@
+---
+layout: default
+title: "New Three Kingdoms (新三国) - Episodes 51-60"
+---
+
 # New Three Kingdoms (新三国) - Episodes 51-60
 *The Jingzhou Gambit: Marriage, Betrayal, and the Death of Zhou Yu*
 

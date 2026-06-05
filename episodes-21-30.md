@@ -1,3 +1,8 @@
+---
+layout: default
+title: "New Three Kingdoms (新三国) - Episodes 21-30"
+---
+
 # New Three Kingdoms (新三国) - Episodes 21-30
 *From the Blood Edict to the Battle of Guandu: Loyalty Tested, Empires Shaken*
 

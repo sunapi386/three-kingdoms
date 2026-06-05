@@ -1,3 +1,8 @@
+---
+layout: default
+title: "New Three Kingdoms (新三国) - Episodes 91-95"
+---
+
 # New Three Kingdoms (新三国) - Episodes 91-95
 *The final chapter*
 

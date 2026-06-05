@@ -1,3 +1,8 @@
+---
+layout: default
+title: "New Three Kingdoms (新三国) - Episodes 41-50"
+---
+
 # New Three Kingdoms (新三国) - Episodes 41-50
 *From Red Cliffs to the Scramble for Jingzhou*
 
